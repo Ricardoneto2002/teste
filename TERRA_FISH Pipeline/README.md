@@ -171,7 +171,7 @@ Below is a representative image showcasing the final classification of cell anno
 
 
 
-!\[Representative Image of TERRA-FISH Classification](TERRA-FISH\_RepresentaticePipeline.png)
+!\[Representative Image of TERRA-FISH Classification](TERRA-FISH\_RepresentativePipeline.png)
 
 
 
