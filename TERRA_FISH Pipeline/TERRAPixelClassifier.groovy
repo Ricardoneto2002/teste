@@ -1,0 +1,1 @@
+createDetectionsFromPixelClassifier("terra1", 0.0, 0.0, "SPLIT")
