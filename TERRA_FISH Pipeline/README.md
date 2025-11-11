@@ -170,13 +170,5 @@ Script: TERRA(+-)\_annotations.groovy
 
 
 
-Below is a representative image showcasing the final classification of cell annotations into the four categories after the full TERRA-FISH pipeline has been applied.
 
-
-
-!\[Representative Image of TERRA-FISH Classification](RepresentativePipeline.png)
-
-
-
-The image illustrates how different cell types and TERRA positivity are visualized, enabling clear interpretation of the analysis results.
 
